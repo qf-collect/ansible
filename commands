@@ -1,0 +1,21 @@
+git clone git@github.com:qf-collect/ansible.git
+  505  ls -lr
+  506  cd ansible
+  507  clear
+  508  ls -lrt
+  509  git remote -v
+  510  git
+  511  which git
+  512  git --help
+  513  owd
+  514  pwd
+  515  touch site.yml
+  516  ls -lrt
+  517  git status
+  518  git add .
+  519  git status
+  520  git commit -m "CL-1010: added new site .yml for site deployment"
+  521  git status
+  522  git log
+  523  git branch
+  524  git push origin main
