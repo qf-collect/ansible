@@ -2,5 +2,6 @@
 - hosts: "webservers"
   vars:
     appname: "collect_webapp"
+    packagename: "nginx"
   tasks:
   handlers:
