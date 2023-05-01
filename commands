@@ -19,3 +19,63 @@ git clone git@github.com:qf-collect/ansible.git
   522  git log
   523  git branch
   524  git push origin main
+  510  git clone git@github.com:qf-collect/ansible.git
+  511  pwd
+  512  cd ansible/
+  513  clear
+  514  ls -lrt
+  515  vi nginx.yml 
+  516  git add .
+  517  git commit -m "updated"
+  518  git log --onleine
+  519  git log --oneline
+  520  git push
+  521  git pull
+  522    git config pull.rebase false
+  523  git pull
+  524  git push
+  525  git log --oneline
+  526  ls -lrt
+  527  vi site.yml 
+  528  git add .
+  529  git commit -m "updted"
+  530  git push
+  531  git pull
+  532  cat site.yml 
+  533  clear
+  534  ls -lrt
+  535  vi site.yml 
+  536  git status
+  537  git pull
+  538  git stash
+  539  git status
+  540  git stash list
+  541  git pull
+  542  git stash pop
+  543  git status
+  544  cat site.yml 
+  545  git add .
+  546  git commit -m "updayed"
+  547  git push
+  548  git log --oneline
+  549  git branch
+  550  git fetch
+  551  git checkout develop
+  552  git branch
+  553  git branch feature/cl-1010
+  554  git branch
+  555  git checkout -b feature/cl-1011
+  556  git branch
+  557  ls -lrt
+  558  vi commands 
+  559  git add .
+  560  git commit -m "updated"
+  561  git push
+  562   git push --set-upstream origin feature/cl-1011
+  563  ls -lrt
+  564  vi nginx.yml 
+  565  git add .
+  566  git commit -m "updated"
+  567  git push
+  568  git push origin --all
+  569  history
