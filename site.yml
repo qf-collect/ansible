@@ -1,5 +1,6 @@
 ---
 - hosts: "webservers"
   vars:
+    appname: "collect_webapp"
   tasks:
   handlers:
