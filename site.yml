@@ -1,5 +1,5 @@
 ---
-- hosts:
+- hosts: "webservers"
   vars:
   tasks:
   handlers:
