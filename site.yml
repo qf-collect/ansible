@@ -4,4 +4,5 @@
     appname: "collect_webapp"
     packagename: "nginx"
   tasks:
+  - name: install package
   handlers:
