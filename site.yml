@@ -6,3 +6,4 @@
   tasks:
   - name: install package
   handlers:
+  - name: restart yhe service
